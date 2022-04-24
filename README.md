@@ -1,16 +1,23 @@
-### Hi there 👋
+### Oie! Eu sou a Pollyana Medeiros
+<div>
+  <a href="https://github.com/pollyyana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollyyana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollyyana&layout=compact&langs_count=7&theme=dracula"/>  
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="polly-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="polly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" height="120" width="120" src="https://media.giphy.com/media/uieQXeHbum6b3TFrK5/giphy.gif">
+</div>
+  
+##
+ 
+<div> 
+  <a href = "pollyana.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pollyana-medeirosk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+![Snake animation](https://github.com/pollyyana/pollyyana/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-<!--
-**pollyyana/pollyyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
