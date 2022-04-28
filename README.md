@@ -1,5 +1,5 @@
-### Quem sou eu
-Olá, eu sou Pollyana. Formada em Análise e Desenvolvimento de Sistemas na instituição de ensino UNIP, estou estudando Flutter e procuro me superar a cada dia.
+
+Oii,eu sou Pollyana, formada em Análise e Desenvolvimento de Sistemas na instituição de ensino UNIP, estou estudando Flutter 
 
 
 <div>
