@@ -1,4 +1,6 @@
 ### Oie! Eu sou a Pollyana Medeiros
+## Estudante| Programador Junior|
+
 <div>
   <a href="https://github.com/pollyyana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollyyana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
