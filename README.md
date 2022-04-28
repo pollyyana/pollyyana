@@ -1,5 +1,5 @@
 ### Oie! Eu sou a Pollyana Medeiros
-## Estudante| Programador Junior|
+### Estudante| Programador Junior|
 
 <div>
   <a href="https://github.com/pollyyana">
