@@ -1,7 +1,6 @@
 
+###  Oii eu sou Pollyana, entusiasta da tecnologia e apaixonada por Flutter!!
 ![Snake animation](https://github.com/pollyyana/pollyyana/blob/output/github-contribution-grid-snake.svg)
-
-### Oii eu sou Pollyana, entusiasta da tecnologia e apaixonada por Flutter!!
 
 <div>
   
