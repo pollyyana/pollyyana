@@ -6,9 +6,9 @@
 <div>
   
 <a href="https://github.com/pollyyana">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pollyyana&show_icons=true&hide=stars,contribs,s&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pollyyana&show_icons=true&hide=stars,contribs,s&theme=dracula&include_all_commits=true&count_private=true"/> 
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollyyana&layout=compact&langs_count=7&theme=dracula"/>  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollyyana&layout=compact&langs_count=7&theme=dracula"/>  
   
    <div style="display: inline_block"><br> 
 
