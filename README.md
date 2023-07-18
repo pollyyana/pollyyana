@@ -1,5 +1,6 @@
 
 ![Snake animation](https://github.com/pollyyana/pollyyana/blob/output/github-contribution-grid-snake.svg)
+
 ### Oii eu sou Pollyana, entusiasta da tecnologia e apaixonada por Flutter!!
 
 <div>
@@ -17,7 +18,7 @@
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 </div>  
 
-#
+
 
  <div> 
    <a href="https://discord.gg/dJBSRSUS4Z" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
