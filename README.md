@@ -3,7 +3,7 @@
 ###  Olá eu sou Pollyana, entusiasta da tecnologia e apaixonada por Flutter!!
 - :mortar_board: Graduada em Analise e Desenvolvimento de Sistemas
 - :computer: Atualmente me dedico a aprender Dart e Flutter
-- :calling: Procuro colaborar com projetos mobile Android, Web e IOS
+- :calling: Procuro colaborar com projetos mobile Android e Web 
 - :email: Contate-me no e-mail: pollyana.dev@gmail.com
 
 <div>
