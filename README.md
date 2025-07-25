@@ -3,7 +3,7 @@
 
 ### 🚧 Reestruturação em andamento
 
-Atualmente estou reorganizando meu GitHub como parte de uma nova fase da minha trajetória como desenvolvedora.  
+Atualmente estou reorganizando meu GitHub como parte de uma nova fase da minha trajetória como desenvolvedor.  
 Removi repositórios antigos para dar espaço a projetos mais maduros e relevantes.  
 Em breve, novos projetos em **Flutter** e tecnologias que venho aprimorando estarão disponíveis por aqui! 🚀
 
